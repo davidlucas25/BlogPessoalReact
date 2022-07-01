@@ -1,0 +1,22 @@
+.box1 {
+    background-color: #3F51B5;
+     height: 120px;
+}
+
+.texto {
+    color: white;
+}
+
+.icons {
+    font-size: 60px !important;
+    color: white;
+}
+
+.box2 {
+    background-color: #303F9F;
+    height: 60px;
+}
+
+.text-decorator-none {
+    text-decoration: none !important;
+}
